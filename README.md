@@ -1,3 +1,2 @@
 # me
-# Anandu
 personal portfolio
